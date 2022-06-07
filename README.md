@@ -7,8 +7,12 @@ While the information on public opinion is essential for all sides of the confli
 
 ## Replication Materials
 
-### Data:
+### Materials
+- `POW-Levada-Questionnaire-RUS.pdf` - original questionnaire in Russian used in the study
+- `POW-Levada-Questionnaire-ENG.pdf` - English translation of the questionnaire used in the study
+
+### Data
 - TBP
 
-### R Code:
+### R Code
 - TBP
