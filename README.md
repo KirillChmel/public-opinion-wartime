@@ -8,8 +8,8 @@ While the information on public opinion is essential for all sides of the confli
 ## Replication Materials
 
 ### Materials
-- `POW-Levada-Questionnaire-RUS.pdf` - original questionnaire in Russian used in the study
-- `POW-Levada-Questionnaire-ENG.pdf` - English translation of the questionnaire used in the study
+- `pow-levada-questionnaire-rus.pdf` - original questionnaire in Russian used in the study
+- `pow-levada-questionnaire-eng.pdf` - English translation of the questionnaire used in the study
 
 ### Data
 - `levada-original-data.sav` - original data file provided by Levada Center
