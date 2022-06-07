@@ -12,7 +12,7 @@ While the information on public opinion is essential for all sides of the confli
 - `POW-Levada-Questionnaire-ENG.pdf` - English translation of the questionnaire used in the study
 
 ### Data
-- TBP
+- `levada-original-data.sav` - original data file provided by Levada Center
 
 ### R Code
 - TBP
